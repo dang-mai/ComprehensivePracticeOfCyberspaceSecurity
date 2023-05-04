@@ -1,0 +1,16 @@
+POST /ScorePrj/servlet/LoginServlet HTTP/1.1
+Host: 192.168.100.106:48180
+Content-Length: 54
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://192.168.100.106:48180
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://192.168.100.106:48180/ScorePrj/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: JSESSIONID=1CFA8F474D2E1F02D183832FCC00BCBE
+Connection: close
+
+account=001&password=001&identity=student&cookietime=0
